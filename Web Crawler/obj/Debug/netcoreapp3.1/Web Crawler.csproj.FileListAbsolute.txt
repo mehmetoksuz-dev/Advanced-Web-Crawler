@@ -1,0 +1,28 @@
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\bin\Debug\netcoreapp3.1\Web Crawler.exe
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\bin\Debug\netcoreapp3.1\Web Crawler.deps.json
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\bin\Debug\netcoreapp3.1\Web Crawler.runtimeconfig.json
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\bin\Debug\netcoreapp3.1\Web Crawler.runtimeconfig.dev.json
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\bin\Debug\netcoreapp3.1\Web Crawler.dll
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\bin\Debug\netcoreapp3.1\Web Crawler.pdb
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\obj\Debug\netcoreapp3.1\Web Crawler.csprojAssemblyReference.cache
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\obj\Debug\netcoreapp3.1\Web Crawler_MarkupCompile.cache
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\obj\Debug\netcoreapp3.1\Web Crawler_MarkupCompile.lref
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\obj\Debug\netcoreapp3.1\Web Crawler.g.resources
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\obj\Debug\netcoreapp3.1\Web Crawler.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\obj\Debug\netcoreapp3.1\Web Crawler.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\obj\Debug\netcoreapp3.1\Web Crawler.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\obj\Debug\netcoreapp3.1\Web Crawler.csproj.CopyComplete
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\obj\Debug\netcoreapp3.1\Web Crawler.dll
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\obj\Debug\netcoreapp3.1\Web Crawler.pdb
+C:\Users\mehme\Desktop\Tasks\Web Crawler Mehmet Öksüz\Web Crawler\Web Crawler\obj\Debug\netcoreapp3.1\Web Crawler.genruntimeconfig.cache
